@@ -2,7 +2,7 @@ require "rails/all"
 require "rails/generators"
 require "generator_spec/test_case"
 
-require_relative "../../../../lib/generators/wallpapering-rails/decorator_generator"
+require_relative "../../../../lib/generators/wallpapering/decorator_generator"
 
 module Wallpapering
   describe DecoratorGenerator do
