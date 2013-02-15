@@ -1,3 +1,4 @@
+require "wallpapering"
 require "wallpapering-rails/version"
 
 module Wallpapering
