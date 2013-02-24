@@ -1,5 +1,7 @@
 # Wallpapering::Rails
 
+[![Build Status](https://travis-ci.org/eightbitraptor/wallpapering-rails.png)](https://travis-ci.org/eightbitraptor/wallpapering-rails)
+
 Wallpapering integration for Rails.
 
 Wallpapering is a decorator pattern implementation in Ruby
