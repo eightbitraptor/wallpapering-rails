@@ -11,8 +11,8 @@ module Wallpapering
 
     def filename
       decorator_name.
-        downcase.
-        underscore
+        underscore.
+        downcase
     end
 
     def class_name

@@ -10,7 +10,7 @@ module Wallpapering
 
     destination File.expand_path("generator_specs", '/tmp')
 
-    arguments ["with-kittens"]
+    arguments ["WithKittens"]
 
     before do
       prepare_destination
